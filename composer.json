@@ -1,0 +1,16 @@
+{
+    "name": "garuda/garuda",
+    "description": "O2System PHP Framework.",
+    "keywords": ["framework", "garuda"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=7.1.7",
+        "garuda/framework": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Garuda\\": "app/"
+        }
+    }
+}

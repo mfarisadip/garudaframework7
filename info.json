@@ -1,0 +1,10 @@
+{
+    "name"			: "garuda framework professional",
+    "description"	: "A Professional PHP Framework",
+    "version"		: "7.0",
+    "main"			: "index.php",
+    "license"		: "Copyright (c) 2018 Muhammad Faris Adi Prabowo",
+    "author"		: "Muhammad Faris Adi Prabowo",
+    "site"			: "http:\/\/mfaris16.com\/",
+    "released_date" : "July 2018"
+}

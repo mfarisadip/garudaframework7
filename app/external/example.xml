@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<student>
+		<name>Albert George</name>
+		<age>24</age>
+		<gender>Man</gender> 
+	</student>
+
+	<student>
+		<name>Cherry</name>
+		<age>15</age>
+		<gender>Woman</gender> 
+	</student>
+
+	<student>
+		<name>George</name>
+		<age>33</age>
+		<gender>Man</gender> 
+	</student>
+	<student>
+		<name>Denny</name>
+		<age>24</age>
+		<gender>Man</gender> 
+	</student>
+	<student>
+		<name>Pretty</name>
+		<age>15</age>
+		<gender>Woman</gender> 
+	</student>
+	<student>
+		<name>George</name>
+		<age>24</age>
+		<gender>Man</gender> 
+	</student>
+</data>
