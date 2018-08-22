@@ -1,6 +1,6 @@
 {
     "name": "garuda/garuda",
-    "description": "O2System PHP Framework.",
+    "description": "Garuda PHP Framework.",
     "keywords": ["framework", "garuda"],
     "license": "MIT",
     "type": "project",
