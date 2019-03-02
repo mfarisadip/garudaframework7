@@ -10,7 +10,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Garuda\\": "app/"
+            "App\\": "app/"
         }
-    }
+    },
+    "minimum-stability": "dev",
 }
