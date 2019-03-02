@@ -1,7 +1,7 @@
 {
     "name": "mfaris16/garudaframework7",
     "description": "Garuda PHP Framework.",
-    "keywords": ["framework", "garuda"],
+    "keywords": ["garudaframework7", "mfaris16"],
     "license": "MIT",
     "type": "project",
     "minimum-stability": "dev",
