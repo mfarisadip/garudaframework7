@@ -4,6 +4,7 @@
     "keywords": ["framework", "garuda"],
     "license": "MIT",
     "type": "project",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.1.7",
         "garuda/framework": "v7.0"
@@ -12,6 +13,6 @@
         "psr-4": {
             "App\\": "app/"
         }
-    },
-    "minimum-stability": "dev",
+    }
+    
 }
