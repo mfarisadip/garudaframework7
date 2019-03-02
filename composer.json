@@ -7,7 +7,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.1.7",
-        "mfaris16/garudaframework7": "v7.0"
+        "mfaris16/garudaframework7": "dev-master"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
