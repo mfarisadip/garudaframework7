@@ -6,7 +6,7 @@
     "type": "project",
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.1.7",
+        "php": ">=7.1.7"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
