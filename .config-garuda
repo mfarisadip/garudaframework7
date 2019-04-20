@@ -1,1 +1,58 @@
-asd
+{
+	  "database_mysql"  : 
+	  {
+	    "server"    : "localhost",
+	    "username"  : "root",
+	    "password"  : "",
+	    "database"  : "lks",
+	    "port"      : 3306
+	  },
+	  "database_postgresql":
+	  {
+	  	"server"    : "localhost",
+	    "username"  : "postgres",
+	    "password"  : "",
+	    "database"  : "lks",
+	    "port"      : 5432
+	  }
+	  ,
+	  "dir_name"    : "GF",
+	  "additional"  : 
+	  {
+	    "maintenance"		    : false,
+	    "start_benchmark"	    : true,
+	    "error_handling"	    : true,
+	    "max_execution_time"    : 600,
+	    "log_framework"		    : false,
+	    "cookie_name"		    : "garuda-framework-7",
+	    "file_maintenance"	    : "maintenance",
+	    "time_zone"			    : "Asia/Jakarta",
+	    "notice_error"		    : true,
+	    "multi_language"	    : true,
+	    "cookie_multi_language" : "garuda-framework-language"
+	  },
+	  "image_base64" :
+	  {
+	  	"error"		: "error",
+	  	"warning"	: "warning",
+	  	"notice"	: "notice"
+	  },
+	  "message_upload" :
+	  {
+	  	"file_empty"      : "File is empty !",
+	  	"upload_max"      : "File is too large ! Maximum size is ",
+	  	"upload_exist"    : "File already exist ",
+	  	"upload_success"  : "Success upload file ",
+	  	"upload_failed"   : "Upload failed ",
+	  	"upload_ignore"   : "These file is not allowed for upload ",
+	  	"upload_image"    : "File is not image "
+	  },
+	  "email"		:
+	  {
+	  	"host"			: "smtp.mailgun.org",
+	  	"username"		: "postmaster@sandbox65abdbaaf9f9477ea21770a1403258e2.mailgun.org",
+	  	"password"		: "c3fd9919b4a5b2f2ab3c35b8ee8cdd4c-52b1d812-5a44ac5b",
+	  	"port"			: 465,
+	  	"secure"		: "ssl"
+	  }
+}
