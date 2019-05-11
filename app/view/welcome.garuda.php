@@ -76,14 +76,6 @@
                 <div class="title m-b-md">
                     Garuda
                 </div>
-
-                <div class="links">
-                    <a href="#">Documentation</a>
-                    <a href="#">Laracasts</a>
-                    <a href="#">News</a>
-                    <a href="#">Forge</a>
-                    <a href="#">GitHub</a>
-                </div><br>
                 [[
 				$end    = _startMicroTime();
 				$result = $end - __Time_Start__;
