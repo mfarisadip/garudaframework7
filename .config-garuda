@@ -16,7 +16,7 @@
 	    "port"      : 5432
 	  }
 	  ,
-	  "dir_name"    : "GA",
+	  "dir_name"    : "GF",
 	  "additional"  : 
 	  {
 	    "maintenance"		    : false,
