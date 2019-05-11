@@ -9,7 +9,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.1.3",
-         "mfaris16/garudaframework7": "7.0*"
+         "mfaris16/garudaframework7": "*"
     },
     "scripts": {
         "post-autoload-dump": [
