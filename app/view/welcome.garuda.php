@@ -25,7 +25,7 @@
         <ul class="navbar-nav">
           <li class="nav-item">
             <a class="nav-link btn btn-danger d-none d-lg-block" href="http://dokumentasi.mfaris16.com/" onclick="scrollToDownload()">
-              <i class="tim-icons icon-paper"></i> Documentation
+              <i class="far fa-file-alt"></i> Documentation
             </a>
           </li>
           <li class="nav-item">
