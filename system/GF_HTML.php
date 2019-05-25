@@ -50,7 +50,8 @@ function _importJSOnline($url=''){
 
 function _importCSS($path='')
 {
-	return '<link href="'.__view_url__.''.$path.'" rel="stylesheet">';
+	return '<link href="'.__view_url__.''.$path.'" rel="stylesheet">
+';
 }
 
 function _importCSSOnline($url=''){
