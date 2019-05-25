@@ -9,8 +9,8 @@
   </title>
   <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,600,700,800" rel="stylesheet" />
   <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
-  <link href="http://localhost/GF/app/view/asset/blk/css/blk-design-system.css?v=1.0.0" rel="stylesheet" />
-  <link href="http://localhost/GF/app/view/asset/blk/css/nucleo-icons.css" rel="stylesheet" />
+  {{ _importCSS($path='asset/blk/css/blk-design-system.css?v=1.0.0'); }}
+  {{ _importCSS($path='asset/blk/css/nucleo-icons.css'); }}
 </head>
 
 <body class="index-page">
