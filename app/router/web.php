@@ -2,7 +2,7 @@
 
 defined('sys_run_app') OR exit('403 - Access Forbidden');
 
-use System\GF_Router as Faris;
+use System\GF_Router as Garuda;
 use System\GF_Request as Req;
 
 /*
@@ -18,6 +18,6 @@ use System\GF_Request as Req;
 | Maka gunakan function Faris::setPrivate();
 |
 */
-Faris::Route('','welcome');
+Garuda::Route('','welcome');
 
-Faris::Route('home');
+Garuda::Route('home');
